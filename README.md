@@ -1,7 +1,5 @@
 # static
-#
-
-
+# my fault
 
 fun3(int x)       
 {
