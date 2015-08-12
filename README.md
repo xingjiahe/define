@@ -1,5 +1,8 @@
 # static
 #
+
+
+
 fun3(int x)       
 {
   static int a=3;      //在int = a前加 static ,则变为全局变量,只进行一次初始化
